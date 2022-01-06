@@ -11,11 +11,11 @@ As a Web Developer I love using my love for design and coding to achieve the qua
   </a>
   
 - 🔭 I’m currently working on a Web Portal for Reviews and SMS tracking with Angular;
-- 🌱 I’m currently learning about data structures and algorithms on [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
-- 👯 I’m looking to collaborate on a Web development or gaming project; 
-- 🤔 I’m looking for help with an accountability buddy, we can study together and push each other to achieve more;
+- 🌱 I'm currently learning game developement with [Unity](https://learn.unity.com/);
+- 🚀 I’m currently learning about data structures and algorithms on [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
+- 👯 I’m looking to collaborate on a Web development or gaming project to improve my skills; 
 - 💬 Ask me about anything, I am happy to be of assistance;
-- 📫 How to reach me: dorothyewuah@gmail.com;
+- 📫 How to reach me: Email - dorothyewuah@gmail.com & [Twitter](https://twitter.com/MaameEphuah1);
 - 😄 Pronouns: She/Her;
 - ⚡ Fun fact: I looove music;
 
