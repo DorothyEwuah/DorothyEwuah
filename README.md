@@ -3,7 +3,8 @@
 I am a Web Applications developer and I create Web applications with its backend using Angular, Typescript, Java and Spring boot.
 I love coding, reading, learning about other cultures, traveling and learning new stuff.
 As a Web Developer I love using my love for design and coding to achieve the quality work I deliver. 
-
+<br>
+<hr>
 
 **About me** :
 <a href="https://github.com/DorothyEwuah/github-readme-stats">
@@ -19,13 +20,16 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 - 😄 Pronouns: She/Her;
 - ⚡ Fun fact: I looove music;
 
+<br>
+<br>
+<br>
 
 **📈My Github Stats:**
 
 <a href="https://github.com/DorothyEwuah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DorothyEwuah&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DorothyEwuah&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=dracula" />
 </a>
   
 <a href="https://github.com/DorothyEwuah/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorothyEwuah&langs_count=8&layout=compact&theme=dracula" />
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorothyEwuah&langs_count=8&layout=compact&theme=dracula" />
 </a>
