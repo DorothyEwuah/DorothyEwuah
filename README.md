@@ -33,5 +33,5 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 </a>
   
 <a href="https://github.com/DorothyEwuah/convoychat">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorothyEwuah&langs_count=8&layout=compact&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorothyEwuah&langs_count=8&layout=compact&theme=dracula" />
 </a>
