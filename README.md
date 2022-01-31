@@ -12,7 +12,7 @@ As a Web Developer I love using my love for design and coding to achieve the qua
   </a>
   
 - 🔭 I’m currently personally working on a Web Portal for Reviews and SMS tracking with Angular;
-- 🌱 I'm currently learning game developement with [Unity](https://learn.unity.com/);
+- 🌱 I'm currently learning game development with [Unity](https://learn.unity.com/);
 - 🚀 I’m currently learning about data structures and algorithms on [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
 - 👯 I’m looking to collaborate on a Web development or gaming project to improve my skills; 
 - 💬 Ask me about anything, I am happy to be of assistance;
