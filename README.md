@@ -11,7 +11,7 @@ As a Web Developer I love using my love for design and coding to achieve the qua
   <img align="right" src="https://user-images.githubusercontent.com/36108891/148312426-9850294e-aed0-473f-ab98-f1dc807776d3.jpg" />
   </a>
   
-- 🔭 I’m currently working on a Web Portal for Reviews and SMS tracking with Angular;
+- 🔭 I’m currently personally working on a Web Portal for Reviews and SMS tracking with Angular;
 - 🌱 I'm currently learning game developement with [Unity](https://learn.unity.com/);
 - 🚀 I’m currently learning about data structures and algorithms on [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
 - 👯 I’m looking to collaborate on a Web development or gaming project to improve my skills; 
@@ -33,5 +33,5 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 </a>
   
 <a href="https://github.com/DorothyEwuah/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorothyEwuah&langs_count=8&layout=compact&theme=dracula" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorothyEwuah&langs_count=10&layout=compact&theme=dracula" />
 </a>
