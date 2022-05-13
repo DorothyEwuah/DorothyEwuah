@@ -31,10 +31,14 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 <a href="https://github.com/DorothyEwuah/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DorothyEwuah&hide=stars,contribs&count_private=true&show_icons=true&theme=dracula" />
 </a>
-  
+
 <a href="https://github.com/DorothyEwuah/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DorothyEwuah&langs_count=10&hide=HLSL,Mathematica,Shaderlab&layout=compact&theme=dracula" />
 </a>
 
-## 😂 Here is a random joke that'll make you laugh!
+<br>
+<br>
+<br>
+<br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
