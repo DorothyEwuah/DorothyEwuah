@@ -40,5 +40,12 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
