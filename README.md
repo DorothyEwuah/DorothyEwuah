@@ -46,7 +46,7 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 <br>
 
 ## Profile View Counter
-![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu&color=ff69b4&style=for-the-badge)
+![Profile View Counter](https://komarev.com/ghpvc/?username=Tanu-N-Prabhu&color=ff69b4&style=flat)
 
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
