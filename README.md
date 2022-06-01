@@ -1,6 +1,6 @@
 ### Hi there, I am [Dorothy Ewuah](https://www.linkedin.com/in/dorothy-ewuah-b3b2b6126/) 👋
 
-I am a Full Stack Applications Developer and I create Web applications with its backend using Angular, Typescript, Java and Spring boot.
+I am a Full Stack Applications Developer. I am usually inclined to creating Web applications with its backend using Angular, Typescript, Java and Spring boot but hey! I could jump on the React/Vue team as well:-|)
 I love coding, reading, learning about other cultures, traveling and learning new stuff.
 As a Web Developer I love using my love for design and coding to achieve the quality work I deliver. 
 <br>
