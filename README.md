@@ -12,9 +12,9 @@ As a Web Developer I love using my love for design and coding to achieve the qua
   </a>
   
 - 🔭 I’m currently personally working on a Web Portal for Reviews and SMS tracking with Angular;
-- 🌱 I'm currently learning game development with [Unity](https://learn.unity.com/);
-- 🚀 I’m currently learning about data structures and algorithms on [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
-- 👯 I’m looking to collaborate on a Web development or gaming project to improve my skills; 
+- 🌱 I'm currently learning android game development with [Unity](https://learn.unity.com/);
+- 🚀 I’m currently learning data structures and algorithms on [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
+- 👯 I’m looking to collaborate on a Web or game development project to improve my skills; 
 - 💬 Ask me about anything, I am happy to be of assistance;
 - 👨🏻‍💻 Games on Google Playstore [KnowAfrika](https://play.google.com/store/apps/details?id=com.gameup.KnowAfrika)
 - 📫 How to reach me: Email - dorothyewuah@gmail.com & [Twitter](https://twitter.com/MaameEphuah1);
