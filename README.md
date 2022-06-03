@@ -2,7 +2,7 @@
 
 I am a Full Stack Applications Developer. I am usually inclined to creating Web applications with its backend using Angular, Typescript, Java and Spring boot but hey! I could jump on the React/Vue team as well:-|)
 I love coding, reading, learning about other cultures, traveling and learning new stuff.
-As a Web Developer I love using my love for design and coding to achieve the quality work I deliver. 
+As a Web Developer I love using my love for design and coding to achieve the quality of work I deliver. 
 <br>
 <hr>
 
