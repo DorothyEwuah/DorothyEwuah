@@ -50,3 +50,5 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 
 ## Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DorothyEwuah)](https://git.io/streak-stats)
