@@ -19,7 +19,7 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 - 👨🏻‍💻 Games on Google Playstore [KnowAfrika](https://play.google.com/store/apps/details?id=com.gameup.KnowAfrika)
 - 📫 How to reach me: Email - dorothyewuah@gmail.com & [Twitter](https://twitter.com/MaameEphuah1);
 - 😄 Pronouns: She/Her;
-- ⚡ Fun fact: I love music;
+- ⚡ Fun fact: I love music and a good challenge;
 
 <br>
 <br>
