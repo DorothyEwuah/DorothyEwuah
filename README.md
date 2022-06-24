@@ -29,7 +29,7 @@ As a Web Developer I love using my love for design and coding to achieve the qua
 **📈My Github Stats:**
 
 <a href="https://github.com/DorothyEwuah/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DorothyEwuah&hide=stars,contribs&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DorothyEwuah&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
 <a href="https://github.com/DorothyEwuah/convoychat">
