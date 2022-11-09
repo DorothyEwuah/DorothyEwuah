@@ -1,8 +1,7 @@
 ### Hi there, I am [Dorothy Ewuah](https://www.linkedin.com/in/dorothy-ewuah-b3b2b6126/) 👋
 
-I am a Full Stack Applications Developer. I am usually inclined to creating Web applications with its backend using Angular, Typescript, Java and Spring boot but hey! I could jump on the React/Vue team as well:-|)
+I am a Full Stack Applications Developer. With expertise in creating Web applications with its backend using Angular, Typescript, Java and Spring boot. I have experience in game dev. Call me an advanced beginner in game dev:-|)
 I love coding, reading, learning about other cultures, traveling and learning new stuff. I am a curious mind :-)
-As a Web Developer I love using my love for design and coding to achieve the quality of work I deliver. 
 <br>
 <hr>
 
@@ -11,9 +10,9 @@ As a Web Developer I love using my love for design and coding to achieve the qua
   <img align="right" src="https://user-images.githubusercontent.com/36108891/148312426-9850294e-aed0-473f-ab98-f1dc807776d3.jpg" />
   </a>
   
-- 🔭 I’m currently personally working on a Web Portal for Sales and Requirements tracking with Angular;
-- 🌱 I'm currently learning android game development with [Unity](https://learn.unity.com/);
-- 🚀 I’m currently learning data structures and algorithms on YouTube and [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
+- 🔭 I’m currently personally working on a Web App for an online shop with Angular;
+- 🌱 I'm currently advancing my knowledge in Advanced Java concepts with Plurasight;
+- 🚀 I’m also improving my DSA skills on YouTube and [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
 - 👯 I’m looking to collaborate on a Web or game development project to improve my skills; 
 - 💬 Ask me about anything, I am happy to be of assistance;
 - 👨🏻‍💻 Games on Google Playstore [KnowAfrika](https://play.google.com/store/apps/details?id=com.gameup.KnowAfrika)
