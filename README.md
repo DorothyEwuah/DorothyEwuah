@@ -10,7 +10,7 @@ I love coding, reading, learning about other cultures, traveling and learning ne
   <img align="right" src="https://user-images.githubusercontent.com/36108891/148312426-9850294e-aed0-473f-ab98-f1dc807776d3.jpg" />
   </a>
   
-- 🔭 I’m currently personally working on a Web App for an online shop with Angular;
+- 🔭 I’m currently personally working on a mobile app with Flutter;
 - 🌱 I'm currently advancing my knowledge in Advanced Java concepts with Plurasight;
 - 🚀 I’m also improving my DSA skills on YouTube and [Hackerrank](https://www.hackerrank.com/dorothyewuah1?hr_r=1);
 - 👯 I’m looking to collaborate on a Web or game development project to improve my skills; 
