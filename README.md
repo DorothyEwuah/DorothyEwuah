@@ -28,7 +28,7 @@ I love coding, reading, learning about other cultures, traveling and learning ne
 **📈My Github Stats:**
 
 <a href="https://github.com/DorothyEwuah/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DorothyEwuah&hide=stars,issues,&hide=contribs&count_private=true&show_icons=true&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DorothyEwuah&hide=stars,issues,=contribs&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
 <a href="https://github.com/DorothyEwuah/convoychat">
